@@ -1,12 +1,10 @@
 # Dom's Portfolio 
-[![GitHub](https://img.shields.io/github/license/AjitVerma15/Interactive-Portfolio?color=green)](https://img.shields.io/github/license/AjitVerma15/Interactive-Portfolio)
-## A Resposive and attractive portfolio for Developers 🔥
-A clean, beautiful and responsive portfolio templete with using only HTML and css.
-Later on add some javascript for animation and designing.
-visit the website [here.](https://ajitverma15.github.io/Interactive-Portfolio/)
+
+## FullStack Develover and Software Engineer 🔥
+Capable of using Front-End and Back-End frameworks and languages to create apps and websites that are user and mobile friendly. Specifically interested in MERN fullstack but always willing to learn new languages and frameworks. 
 
 
-![ezgif com-optimize](https://user-images.githubusercontent.com/53833570/87217363-f9e6ff00-c365-11ea-9e1a-4d017964f2b4.gif)
+<img width="1444" alt="homescreenSS" src="https://user-images.githubusercontent.com/70596778/100153925-73d9d980-2e6a-11eb-983d-05220978ae0d.png">
 
 ## Sections:
 💥 About me\
@@ -16,22 +14,14 @@ visit the website [here.](https://ajitverma15.github.io/Interactive-Portfolio/)
 💥 Projects\
 💥 Contact me
 
-## Technology used:
-- HTML
-- CSS
 
 ## Illustration and Images
-- [Undraw](https://undraw.co/)
-- [Hackerblock](https://hack.codingblocks.com/)
+<img width="1426" alt="skillsSS" src="https://user-images.githubusercontent.com/70596778/100154071-a7b4ff00-2e6a-11eb-97b6-82080e4689b1.png">
+<img width="1418" alt="contactSS" src="https://user-images.githubusercontent.com/70596778/100154100-b3a0c100-2e6a-11eb-84b1-a8699a29b3a7.png">
 
 ## For the Future
-I'm in the process of learning javascript So,i didn't add any of it 
-If you can help us with these.Please don't hesitate to open a pull request.
-- Add a page loader
-- Add some Animation
-- Enable Dark mode
-- Add some more Section
+In the process of looking for a contract or fulltime position that will allow me to use the fullstack abilities I have gained from my time at DigitalCrafts Fullstack bootcamp. 
 
 ## Reference 
-Some Design idea are taken from [Ashutosh Hathidara](https://github.com/ashutosh1919/masterPortfolio)
+Some Design ideas for this portfolio are taken from [Ashutosh Hathidara](https://github.com/ashutosh1919/masterPortfolio)
 Portfolio template forked and provided by Ajit Verma
