@@ -1,4 +1,4 @@
-# Interactive-Portfolio 
+# Dom's Portfolio 
 [![GitHub](https://img.shields.io/github/license/AjitVerma15/Interactive-Portfolio?color=green)](https://img.shields.io/github/license/AjitVerma15/Interactive-Portfolio)
 ## A Resposive and attractive portfolio for Developers 🔥
 A clean, beautiful and responsive portfolio templete with using only HTML and css.
@@ -34,3 +34,4 @@ If you can help us with these.Please don't hesitate to open a pull request.
 
 ## Reference 
 Some Design idea are taken from [Ashutosh Hathidara](https://github.com/ashutosh1919/masterPortfolio)
+Portfolio template forked and provided by Ajit Verma
