@@ -7,6 +7,22 @@ body{
     padding : 3% 5% 1%;
 }
 
+/* doms work *********** */
+
+.domsDiv {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.domsIcon {
+  height: 100px;
+  width: 100px;
+  padding-right: 10px;
+}
+
+/* doms work end ********* */
+
 p{
   font-size: 18px;
 }
